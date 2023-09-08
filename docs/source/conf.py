@@ -77,21 +77,6 @@ html_theme_options = {
             },
         },
     ],
-    # BEGIN: version_dropdown
-    "version_dropdown": True,
-    "version_info": [
-        {
-            "version": "https://sphinx-immaterial.rtfd.io",
-            "title": "ReadTheDocs",
-            "aliases": [],
-        },
-        {
-            "version": "https://jbms.github.io/sphinx-immaterial",
-            "title": "Github Pages",
-            "aliases": [],
-        },
-    ],
-    # END: version_dropdown
     "toc_title_is_page_title": True,
     # BEGIN: social icons
     "social": [
