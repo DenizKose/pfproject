@@ -25,7 +25,7 @@ language = 'uk'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
-
+html_favicon = '_static/favicon.png'
 html_theme = "sphinx_immaterial"
 html_static_path = ['_static']
 html_title = f'{project}'
@@ -34,9 +34,8 @@ html_theme_options = {
         "repo": "fontawesome/brands/github",
         "edit": "material/file-edit-outline",
     },
-    "site_url": "https://jbms.github.io/sphinx-immaterial/",
-    "repo_url": "https://github.com/jbms/sphinx-immaterial/",
-    "repo_name": "Sphinx-Immaterial",
+    "repo_url": "https://github.com/DenizKose/pfproject",
+    "repo_name": "pfproject",
     "edit_uri": "blob/main/docs",
     "globaltoc_collapse": True,
     "features": [
@@ -82,12 +81,12 @@ html_theme_options = {
     "social": [
         {
             "icon": "fontawesome/brands/github",
-            "link": "https://github.com/jbms/sphinx-immaterial",
+            "link": "https://github.com/DenizKose/pfproject",
             "name": "Source on github.com",
         },
         {
-            "icon": "fontawesome/brands/python",
-            "link": "https://pypi.org/project/sphinx-immaterial/",
+            "icon": "fontawesome/brands/wikipedia-w",
+            "link": "https://golarion.fandom.com/uk/wiki/Вікі_Golarion",
         },
     ],
     # END: social icons

@@ -2,8 +2,8 @@
 =============================
 
 .. toctree::
-   :maxdepth: 3
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Зміст:
 
    introduction/index
    ancestries-and-backgrounds/index

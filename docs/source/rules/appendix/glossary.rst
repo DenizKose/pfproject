@@ -3733,10 +3733,4 @@ XP (Experience Points)
 
 See also Experience Points.
 
-
-
-.. toctree::
-   :glob:
-   :maxdepth: 2
-
 .. include:: /_utils/actions.rst
