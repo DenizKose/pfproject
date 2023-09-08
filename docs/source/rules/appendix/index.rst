@@ -1,6 +1,8 @@
-ℹ Додаток
+ℹ️ Додаток
 =============================
 
 .. toctree::
    :glob:
-   :maxdepth: 2
+   :maxdepth: 1
+
+   glossary.rst
