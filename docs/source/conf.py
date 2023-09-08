@@ -28,7 +28,7 @@ language = 'uk'
 
 html_theme = "sphinx_immaterial"
 html_static_path = ['_static']
-
+html_title = f'{project}'
 html_theme_options = {
     "icon": {
         "repo": "fontawesome/brands/github",
