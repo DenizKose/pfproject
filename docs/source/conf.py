@@ -27,6 +27,7 @@ language = 'uk'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 html_favicon = '_static/favicon.png'
 html_theme = "sphinx_immaterial"
+globaltoc_maxdepth = 2
 html_static_path = ['_static']
 html_title = f'{project}'
 html_theme_options = {
@@ -40,9 +41,9 @@ html_theme_options = {
     "features": [
         "navigation.expand",
         # "navigation.tabs",
-        "toc.integrate",
+        # "toc.integrate",
         "navigation.sections",
-        # "navigation.instant",
+        "navigation.instant",
         # "header.autohide",
         "navigation.top",
         # "navigation.tracking",

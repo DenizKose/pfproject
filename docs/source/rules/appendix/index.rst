@@ -2,7 +2,6 @@
 =============================
 
 .. toctree::
-   :glob:
    :maxdepth: 1
 
    glossary.rst

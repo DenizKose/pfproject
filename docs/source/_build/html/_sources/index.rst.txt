@@ -11,6 +11,6 @@ Welcome to f's documentation!
 =============================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    
    rules/index
