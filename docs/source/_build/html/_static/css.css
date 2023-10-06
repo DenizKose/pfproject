@@ -1,0 +1,17 @@
+
+blockquote.epigraph p {
+	margin-bottom: 0.5em;
+}
+
+blockquote.epigraph,
+blockquote.epigraph {
+	margin-left: 0.2em;
+	margin-bottom: 0.2em;
+	color: #5e0000;
+}
+
+blockquote.epigraph + hr.docutils {
+	border-top: 1px solid;
+	margin: 0 0;
+	margin-bottom: 1em;
+}

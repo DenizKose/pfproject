@@ -29,6 +29,9 @@ html_favicon = '_static/favicon.png'
 html_theme = "sphinx_immaterial"
 globaltoc_maxdepth = 2
 html_static_path = ['_static']
+html_css_files = [
+    'css.css',
+]
 html_title = f'{project}'
 html_theme_options = {
     "icon": {
