@@ -17,7 +17,7 @@ packaging==23.2
 platformdirs==4.1.0
 pydantic==2.5.3
 pydantic-extra-types==2.4.1
-pydantic_core==2.16.1
+pydantic_core==2.14.6
 pygls==1.2.1
 Pygments==2.17.2
 pyspellchecker==0.8.1
